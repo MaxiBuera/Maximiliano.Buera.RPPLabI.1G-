@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1607309863 source:c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+
+1607309863 c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\cliente.h
+
+1607309863 source:c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1607309863 c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\utn.h
+
+1607310081 source:c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"informes.h"
+
+1607309863 c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\alquiler.h
+
+1607309894 source:c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+
+1607309863 c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\informes.h
+
+1607309863 source:c:\users\maxii\desktop\nuevo\buera.maximiliano.rpplab1.1g\recparcial1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"informes.h"
+
+1607291350 source:c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+
+1607290467 c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\utn.h
+
+1607290467 c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\cliente.h
+
+1607290467 c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\alquiler.h
+
+1607290467 source:c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+
+1607291788 source:c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"informes.h"
+
+1607290467 c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\informes.h
+
+1607290467 source:c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1607290648 source:c:\users\maximiliano.e.buera\desktop\buera.maximiliano.rpplab1.1g\recparcial1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"informes.h"
+
+1607309894 source:c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+
+1607309863 c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\utn.h
+
+1607647663 c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\cliente.h
+
+1607309863 c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\alquiler.h
+
+1607647150 source:c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+	"prestamos.h"
+	"alquiler.h"
+	"informes.h"
+
+1607646359 c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\informes.h
+
+1607309863 source:c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1607640996 source:c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+
+1607646755 source:c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"prestamos.h"
+	"alquiler.h"
+	"informes.h"
+
+1607641711 c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\prestamos.h
+
+1607641861 source:c:\users\maxii\desktop\nuevo\maximiliano.buera.rpplabi.1g-\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"cliente.h"
+	"prestamos.h"
+
